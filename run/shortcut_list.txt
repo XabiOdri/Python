@@ -1,0 +1,3 @@
+{"list": "notepad ./shortcut_list.txt",
+"google": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe https://www.google.es/"
+}
